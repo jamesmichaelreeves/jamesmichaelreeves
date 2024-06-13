@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @jamesmichaelreeves
+- 👋 Hi, I’m @l3ssth4nz3r0k00L
 - 👀 I’m interested in ...python3 for Cinema4D
 - 🌱 I’m currently learning ...how to crawl
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... http://www.youtube.com/jamesreevesfilm
+- 📫 How to reach me ... 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am a filmmaker and enjoy drifting.
+- ⚡ Fun fact: ... 
 
 <!---
-jamesmichaelreeves/jamesmichaelreeves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+l3ssth4nz3r0k00L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
